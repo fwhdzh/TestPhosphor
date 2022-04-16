@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="36f03bd3-e291-49bb-8c20-4ff54ccbf414" name="laboratory">
+        <fileTransfer rootFolder="/home/fengwenhan/code/TestPhosphor" accessType="SFTP" host="39.104.112.98" port="22" sshConfigId="d3413ebd-b356-45fb-a9a5-13b91b324cb4" sshConfig="fengwenhan@39.104.112.98:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
